@@ -1,0 +1,3 @@
+﻿  67Add_Binary.cpp
+C:\Users\cth\Documents\GitHub\DataStructureCpp\test\67Add_Binary.cpp(91): warning C4715: 'Solution::addBinary': not all control paths return a value
+  test.vcxproj -> C:\Users\cth\Documents\GitHub\DataStructureCpp\test\Debug\test.exe
